@@ -1,0 +1,36 @@
+h1 {
+    color: cornflowerblue;
+    text-align: center;
+}
+h3 {
+color: darkblue;
+text-align: center;
+}
+td,tr,th {
+    border: solid 1px black;
+    text-align: center;
+    border-collapse: collapse;
+    width: 10%;
+}
+table {
+    border-collapse: collapse;
+    width: 90%;
+    margin: auto;
+    background-color: rgb(250, 250, 250);
+}
+.image {
+    height: 250px;
+    width: 250px;
+}
+.add{
+    cursor: pointer;
+}
+.remove {
+    cursor: pointer;
+}
+.delete {
+    cursor: pointer;
+}
+ .like {
+     cursor: pointer;
+ }
